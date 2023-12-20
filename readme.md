@@ -7,3 +7,5 @@
 3. JavaScript
 
 ## Notes
+
+-Added page title
